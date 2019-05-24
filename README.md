@@ -2,6 +2,11 @@
 A game created in a single day for a game jam event held at my uni (we technically had 26 hours for this)
 This is the first time I have properly used GameMaker Studio 2 - previous experience before this was only in college working on a simple maze game(similar to pac man - without ghosts chasing you), and a simple shooter game (similar to space invaders)
 
+As there is no tutorial for the game included the controls are as follows:
+Arror keys - Movment
+Space bar - Shooting (you can hold the button down to shoot too)
+(we didn't prioritise the right aspects for the game - we had no tutorial or story so players were kinda just thrown in blind with us telling them the controls)
+
 4 of us worked on this, we all worked together to design the idea and have a goal, however within the game there wasn't time to impliment the story which 1 person created, 1 person basically did nothing but played other games while we worked, as such all work on the game besides art was my own (our artist was amazing - although there was a lot more art intended for this - I'm happy with what we had from a single day)
 
 Personally I am quite impressed with the functionality of the game and the coding for the game, although inefficient (I didn't have time or honestly the knowlege on how to properly structure things using scripts and making use of standard OOP principles) 
